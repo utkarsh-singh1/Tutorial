@@ -1,0 +1,15 @@
+Assumptions
+------------
+
+
+1. There exists a linear relationship between dependent an independent variables.
+
+
+2. Independent variables should not have any linear relationship between them.   ( VIF)
+
+3. Residuals are normally distributed
+
+4. The variance of residuals is constanct value        ( homoscdasticity)
+
+5. Errors are not related to any independent variable .
+   ( there should not be any relationship between independent variables and errors )
